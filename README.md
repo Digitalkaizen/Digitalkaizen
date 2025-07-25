@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Digitalkaizen
-- 👀 I’m interested in ML & multiuser AR effects in communication 
-- 🌱 I’m currently learning Machine Learning, WebAR
-- 💞️ I’m looking to collaborate on creating WebAR experiences for daily communication
+- 👀 I’m interested in ML & DS 
+- 🌱 I’m currently learning Data Science & Machine Learning, AR
+- 💞️ I’m looking to collaborate on creating ML, WebAR experiences
 - 📫 How to reach me: dvs.kaizen@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
