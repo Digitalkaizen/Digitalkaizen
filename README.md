@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Digitalkaizen
+- 👋 Hi, I’m Dmitry Sergeenko (@Digitalkaizen)
 - 👀 I’m interested in ML & DS 
-- 🌱 I’m currently learning Data Science & Machine Learning, AR for managing AI projects
-- 💞️ I’m looking to collaborate on creating ML, WebAR experiences
+- 🌱 I’m currently learning Data Science & Machine Learning for managing AI projects
+- 💞️ I’m looking to collaborate on creating ML products, WebAR experiences
 - 📫 How to reach me: dvs.kaizen@gmail.com
-- ⚡ Fun fact: I have a dog and I love her 
+- ⚡ Fun fact: I have a dog and I am so much in love with her 
