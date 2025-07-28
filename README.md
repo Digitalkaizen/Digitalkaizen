@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dmitry Sergeenko (@Digitalkaizen)
+- 👋 Hi, my name is Dmitry Sergeenko (@Digitalkaizen)
 - 👀 I’m interested in ML & DS 
 - 🌱 I’m currently learning Data Science & Machine Learning for managing AI projects
 - 💞️ I’m looking to collaborate on creating ML products, WebAR experiences
