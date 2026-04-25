@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Dmitry Sergeenko (@Digitalkaizen)
-- 👀 I’m interested in ML & DS 
-- 🌱 I’m currently learning Data Science & Machine Learning for managing AI projects
-- 💞️ I’m looking to collaborate on creating ML products, WebAR experiences
+- 👋 Hi, my name is Dmitry (@Digitalkaizen)
+- 👀 I’m interested in Data Science & Machine Learning, AI Agentic projects
+- 🌱 I’m currently working on ML & DS and Agentic AI Engineering as AI Product Architect
+- 💞️ I’m creating AI super-agent products for Business
 - 📫 How to reach me: dvs.kaizen@gmail.com
-- ⚡ Fun fact: I have a dog and I am so much in love with her 
+- ⚡ I have a dog and I am so much in love with it
